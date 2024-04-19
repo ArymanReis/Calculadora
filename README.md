@@ -9,7 +9,7 @@
 
 <img align="center" src="css/projeto_calculadora.png" alt="imagem do projeto"/>
 
-#### Clica nesse link e divirta-se 👉 https://arymanreis.github.io/Dev_Nodes/
+#### Clica nesse link e divirta-se 👉 https://arymanreis.github.io/Calculadora/
 
 #### Tecnologias Usadas no projeto
 
